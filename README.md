@@ -1,5 +1,5 @@
 # Unveiling Hidden Risk Factors in Global Markets using Principal Component Analysis
-# Unveiling Hidden Risk Factors in Global Markets using PCA
+
 
 This repository contains the research report **"Unveiling Hidden Risk Factors in Global Markets using PCA"**, which applies **Principal Component Analysis (PCA)** to global equity sector returns in order to uncover common market drivers, quantify risk exposures, and provide insights for portfolio management.
 
